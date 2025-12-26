@@ -2,7 +2,12 @@ body {
    background-image: url("food.jpg");
    background-size: cover;
     background-repeat: no-repeat;
-    
+    background-position: center;
+    font-family: Arial;
+    background-color: #f8f8f8;
+    margin: 0%;
+   margin-top: 32px;
+    height: 100vh;
 }
 
 .header {
